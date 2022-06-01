@@ -1,4 +1,6 @@
-## Olá! Eu sou o Elias Antonio 🖐️
+## Olá! Seja bem vindo(a)!
+
+### Eu sou o Elias Antonio! 🖐️
 
 ### Estudante do curso de Ciência da Computação 🧑‍🎓
 
