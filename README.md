@@ -2,7 +2,7 @@
 
 ### Eu sou o Elias Antonio! 🖐️
 
-### Estudante do curso de Ciência da Computação 🧑‍🎓
+
 
 <div>
   <a href="https://github.com/eliasdossantos">
