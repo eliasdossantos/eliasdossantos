@@ -13,7 +13,7 @@
 
 <div style="display: inline_block"><br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="javascript" height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
+    <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
     <a href="https://www.php.net/" target="_blank"> <img align="center" alt="PHP" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> </a>
     <a href="https://www.python.org" target="_blank"> <img align="center" alt="python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> </a>
