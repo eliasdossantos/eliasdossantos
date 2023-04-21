@@ -6,9 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/eliasdossantos">
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasdossantos&show_icons=true&theme=&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
-
   <img width="49%" height="180px" left="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdossantos&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />  
 </div>
 
@@ -16,7 +14,7 @@
 ### Tecnologias que eu uso no meu dia 💻
 
 <div style="display: inline_block"><br/>
-    <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="javascript" height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> </a>-->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="javascript" height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> </a>
     <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
     <a href="https://www.php.net/" target="_blank"> <img align="center" alt="PHP" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> </a>
