@@ -7,6 +7,8 @@
 <div>
   <a href="https://github.com/eliasdossantos">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eliasdossantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+  <img width="49%" height="180px" left="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdossantos&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />  
 </div>
 
 
