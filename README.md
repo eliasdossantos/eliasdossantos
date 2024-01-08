@@ -16,7 +16,7 @@
     <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-  <img alt="LARAVEL" height="50" width="50" class="fab fa-laravel"/>
+    <img alt="Laravel" height="50" width="50" src="https://cdn.jsdelivr.net/devicons/2.14.0/svg/laravel.svg" />
     <img align="center" alt="GitHub" height="40" width="40" src="https://img.icons8.com/fluency/512/github.png" />
     <img align="center" alt="GIT" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
     <img align="center" alt="PYTHON" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
