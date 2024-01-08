@@ -3,12 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=900&lines=Hello,+my+name+is+Elias+Antonio+🖐️;I+am+a+Fullstack+Developer;Welcome!+:%29)](https://git.io/typing-svg)
 
 
-
-
-<div align="center">
-  <a href="https://github.com/eliasdossantos">
+<div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasdossantos&show_icons=true&theme=&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
-  <img width="49%" height="180px" left="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdossantos&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />  
+
+  <img width="49%" height="180px" left="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdossantos&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 
