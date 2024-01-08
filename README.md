@@ -13,14 +13,16 @@
 ### Tecnologias que uso no dia-a-dia 💻
 
 <div aling="center"><br/>
-    <img align="center" alt="js" height="40" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-    <img align="center" alt="HTML" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    <img align="center" alt="CSS" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img align="center" alt="PHP" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-    <img align="center" alt="git" height="40" width="40"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-    <img align="center" alt="python" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-    <img align="center" alt="MYSQL" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</di><br/>
+    <img align="center" alt="JS" height="40" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+    <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+    <img align="center" alt="GitHub" height="40" width="40" src="https://img.icons8.com/fluency/512/github.png" />
+    <img align="center" alt="GIT" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+    <img align="center" alt="PYTHON" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <img align="center" alt="DJANGO" height="40" width="40" src="https://img.icons8.com/color/48/000000/django.png"/>
+    <img align="center" alt="MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+</div><br/>
 
 ### IDEs que uso
 <div>
@@ -33,6 +35,5 @@
   <a href = "mailto:contatoeliasantonio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
 </div>
 
-![Snake animation](https://github.com/eliasdossantos/eliasdossantos/blob/output/github-contribution-grid-snake.svg)
   
  ### Obrigado por me visitar!
