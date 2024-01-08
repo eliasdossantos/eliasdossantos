@@ -10,10 +10,10 @@
 </div>
 
 
-### Tecnologias que eu uso no meu dia 💻
+### Tecnologias que uso no dia-a-dia 💻
 
 <div style="display: inline_block"><br/>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="javascript" height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> </a>
+    <a style="text-decoration: none; border: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="javascript" height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> </a>
     <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
     <a href="https://www.php.net/" target="_blank"> <img align="center" alt="PHP" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> </a>
@@ -21,6 +21,11 @@
     <a href="https://www.python.org" target="_blank"> <img align="center" alt="python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img align="center" alt="MYSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> </a>
 </div><br/>
+
+### IDEs que uso
+<div>
+    <img aling="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><br>
+</div>
 
 ### Entre em contato comigo
 <div> 
