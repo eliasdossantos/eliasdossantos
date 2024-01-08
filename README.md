@@ -1,6 +1,6 @@
 ## Olá! Seja bem vindo(a)!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=900&lines=Hello,+my+name+is+Elias+Antonio+🖐️;I+am+a+Fullstack+Developer;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=900&lines=Hello,+my+name+is+Elias+Antonio+🖐️;I+am+a+Fullstack+Developer)](https://git.io/typing-svg)
 
 
 <div align="center"> 
