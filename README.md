@@ -16,10 +16,10 @@
     <img align="center" alt="js" height="40" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
     <img align="center" alt="HTML" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img align="center" alt="CSS" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img align="center" alt="PHP" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+    <img align="center" alt="PHP" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
     <img align="center" alt="git" height="40" width="40"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
     <img align="center" alt="python" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-    <img align="center" alt="MYSQL" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="MYSQL" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </di><br/>
 
 ### IDEs que uso
