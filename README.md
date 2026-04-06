@@ -34,6 +34,16 @@ Foco em performance, escalabilidade e boas práticas.
 
 ---
 
+## 📊 Linguagens mais utilizadas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eliasdossantos&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Desenvolvimento Web
