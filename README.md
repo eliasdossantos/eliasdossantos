@@ -1,35 +1,153 @@
-## Olá! Seja bem vindo(a)!
+<!-- HEADER -->
+<h1 align="center">👋 Olá, eu sou Elias Antonio</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=900&lines=Hello,+my+name+is+Elias+Antonio+🖐️;I+am+a+Fullstack+Developer)](https://git.io/typing-svg)
+<p align="center">
+Desenvolvedor Fullstack com experiência em sistemas reais em produção.<br>
+Foco em performance, escalabilidade e boas práticas.
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=24&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Laravel+%7C+PHP+%7C+JavaScript;Sempre+evoluindo+🚀" />
+</p>
 
-<div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasdossantos&show_icons=true&theme=&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eliasdossantos&color=00bfbf" />
+</p>
 
-  <img width="49%" height="180px" left="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdossantos&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+---
+
+## 🧠 Stack Principal
+
+<div align="center">
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql)
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python)
+
 </div>
 
-### Tecnologias que uso no dia-a-dia 💻
+<p align="center">
+💡 Experiência prática no desenvolvimento de sistemas completos, atuando do backend ao frontend.
+</p>
 
-<div style="text-align: center;">
-    <img align="center" alt="JS" height="40" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-    <img align="center" alt="GitHub" height="40" width="40" src="https://img.icons8.com/fluency/512/github.png" />
-    <img align="center" alt="GIT" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-    <img align="center" alt="PYTHON" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-    <img align="center" alt="DJANGO" height="40" width="40" src="https://img.icons8.com/color/48/000000/django.png"/>
-    <img align="center" alt="MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt ="JAVA" height="40" width="40" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</div><br/>
+---
 
-### Entre em contato comigo
-<div style="text-align: center;">
-  <a href="https://www.linkedin.com/in/eliasantoniodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/8FVU9fUt" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatoeliasantonio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/elyassantos_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div><br/>
+## 🛠️ Tecnologias e Ferramentas
 
- ### Obrigado por me visitar!
+### 💻 Desenvolvimento Web
+<div align="center">
+
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
+
+</div>
+
+---
+
+### ⚙️ Backend & APIs
+<div align="center">
+
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+
+</div>
+
+<p align="center">
+🔗 Criação e consumo de APIs REST, integração com AJAX e aplicações em arquitetura MVC
+</p>
+
+---
+
+### 🗄️ Banco de Dados
+<div align="center">
+
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+
+</div>
+
+<p align="center">
+📊 Modelagem, manipulação e otimização de dados com SQL
+</p>
+
+---
+
+### 🧰 Ferramentas & Ambiente
+<div align="center">
+
+<img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+
+</div>
+
+<p align="center">
+⚙️ Versionamento com Git/GitHub e experiência com ambiente Linux
+</p>
+
+---
+
+### 🚀 Em evolução / estudos
+
+<div align="center">
+
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+
+</div>
+
+<p align="center">
+📚 Sempre me atualizando com tecnologias do mercado e aprendendo conforme a necessidade dos projetos
+</p>
+
+---
+
+## 📌 Sobre mim
+
+- 💻 Experiência com sistemas reais em produção  
+- ⚡ Foco em performance e boas práticas  
+- 🤝 Trabalho em equipe e comunicação  
+- 📚 Aprendizado contínuo  
+
+---
+
+## 📌 Atualmente
+
+- 🔭 Trabalhando em projetos próprios  
+- 🌱 Em constante evolução, acompanhando tecnologias do mercado e me adaptando às demandas reais  
+- 👯 Aberto a colaborações  
+- 💬 Pergunte-me sobre PHP, APIs e sistemas web  
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:contatoeliasantonio@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/eliasantoniodev">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/8FVU9fUt">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/elyassantos_/">
+    <img src="https://img.shields.io/badge/Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✨ Final
+
+🚀 Aberto a oportunidades como desenvolvedor  
+💬 Vamos conversar e construir algo juntos!
