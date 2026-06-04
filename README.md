@@ -1,163 +1,142 @@
-<!-- HEADER -->
-<h1 align="center">👋 Olá, eu sou Elias Antonio</h1>
+<div align="center">
 
-<p align="center">
-Desenvolvedor Fullstack com experiência em sistemas reais em produção.<br>
-Foco em performance, escalabilidade e boas práticas.
-</p>
+# Elias Antonio
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=24&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Laravel+%7C+PHP+%7C+JavaScript;Sempre+evoluindo+🚀" />
-</p>
+**Desenvolvedor Fullstack** · Sistemas reais em produção · Performance & escalabilidade
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eliasdossantos&color=00bfbf" />
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-contatoeliasantonio%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contatoeliasantonio@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eliasantoniodev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliasantoniodev)
+[![Discord](https://img.shields.io/badge/Discord-Comunidade-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8FVU9fUt)
+[![Instagram](https://img.shields.io/badge/Instagram-elyassantos__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/elyassantos_/)
+[![Profile Views](https://komarev.com/ghpvc/?username=eliasdossantos&color=0A66C2&style=flat-square)](https://github.com/eliasdossantos)
+
+</div>
 
 ---
 
-## 🧠 Stack Principal
+## Sobre mim
+
+Desenvolvedor Fullstack com experiência em sistemas reais em produção. Atuo do backend ao frontend, com foco em performance, escalabilidade e boas práticas de desenvolvimento.
+
+- 💻 Experiência com sistemas em ambiente de produção
+- ⚡ Foco em performance e arquitetura escalável
+- 🤝 Trabalho em equipe e comunicação clara
+- 📚 Aprendizado contínuo acompanhando o mercado
+- 👯 Aberto a colaborações e oportunidades
+- 💬 Me pergunte sobre PHP, Laravel, APIs REST, sistemas web e mobile
+
+---
+
+## Stack Principal
 
 <div align="center">
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript)
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql)
-![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
-<p align="center">
-💡 Experiência prática no desenvolvimento de sistemas completos, atuando do backend ao frontend.
-</p>
-
 ---
 
-## 📊 Linguagens mais utilizadas
+## Tecnologias e Ferramentas
+
+### Desenvolvimento Web
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eliasdossantos&layout=compact&theme=tokyonight"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 </div>
 
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### 💻 Desenvolvimento Web
-<div align="center">
-
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img height="40" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
-
-</div>
-
----
-
-### ⚙️ Backend & APIs
-<div align="center">
-
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-
-</div>
-
-<p align="center">
-🔗 Criação e consumo de APIs REST, integração com AJAX e aplicações em arquitetura MVC
-</p>
-
----
-
-### 🗄️ Banco de Dados
-<div align="center">
-
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
-</div>
-
-<p align="center">
-📊 Modelagem, manipulação e otimização de dados com SQL
-</p>
-
----
-
-### 🧰 Ferramentas & Ambiente
-<div align="center">
-
-<img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-
-</div>
-
-<p align="center">
-⚙️ Versionamento com Git/GitHub e experiência com ambiente Linux
-</p>
-
----
-
-### 🚀 Em evolução / estudos
+### Backend & APIs
 
 <div align="center">
 
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 </div>
 
-<p align="center">
-📚 Sempre me atualizando com tecnologias do mercado e aprendendo conforme a necessidade dos projetos
-</p>
+> Criação e consumo de APIs REST, integração com AJAX e desenvolvimento em arquitetura MVC.
+
+### Banco de Dados
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</div>
+
+> Modelagem, manipulação e otimização de dados com SQL, além de bancos em tempo real com Supabase e Firebase.
+
+### Ferramentas & Ambiente
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+</div>
+
+> Versionamento com Git/GitHub, experiência com ambiente Linux e serviços de nuvem AWS.
 
 ---
 
-## 📌 Sobre mim
+## Em Evolução
 
-- 💻 Experiência com sistemas reais em produção  
-- ⚡ Foco em performance e boas práticas  
-- 🤝 Trabalho em equipe e comunicação  
-- 📚 Aprendizado contínuo  
+<div align="center">
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📌 Atualmente
+</div>
 
-- 🔭 Trabalhando em projetos próprios  
-- 🌱 Em constante evolução, acompanhando tecnologias do mercado e me adaptando às demandas reais  
-- 👯 Aberto a colaborações  
-- 💬 Pergunte-me sobre PHP, APIs e sistemas web  
+> Sempre me atualizando com tecnologias do mercado e aprendendo conforme a necessidade dos projetos.
 
 ---
 
-## 📫 Contato
+## Estatísticas
 
-<p align="center">
-  <a href="mailto:contatoeliasantonio@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/eliasantoniodev">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/8FVU9fUt">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/elyassantos_/">
-    <img src="https://img.shields.io/badge/Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eliasdossantos&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## ✨ Final
+## Atualmente
 
-🚀 Aberto a oportunidades como desenvolvedor  
-💬 Vamos conversar e construir algo juntos!
+- 🔭 Trabalhando em projetos próprios
+- 🌱 Em constante evolução, acompanhando tecnologias do mercado
+- 👯 Aberto a colaborações
+- 🚀 Disponível para oportunidades como desenvolvedor
+
+---
+
+<div align="center">
+
+**Vamos construir algo juntos?**
+
+[![Gmail](https://img.shields.io/badge/Entrar_em_contato-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contatoeliasantonio@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliasantoniodev)
+
+</div>
