@@ -7,7 +7,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-contatoeliasantonio%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contatoeliasantonio@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eliasantoniodev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliasantoniodev)
 [![Discord](https://img.shields.io/badge/Discord-Comunidade-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8FVU9fUt)
-[![Instagram](https://img.shields.io/badge/Instagram-elyassantos__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/elyassantos_/)
 [![Profile Views](https://komarev.com/ghpvc/?username=eliasdossantos&color=0A66C2&style=flat-square)](https://github.com/eliasdossantos)
 
 </div>
