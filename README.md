@@ -122,6 +122,16 @@ Desenvolvedor Fullstack com experiência em sistemas reais em produção. Atuo d
 
 ---
 
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/eliasdossantos/eliasdossantos/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
 ## Atualmente
 
 - 🔭 Trabalhando em projetos próprios
