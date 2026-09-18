@@ -112,16 +112,6 @@ Desenvolvedor Fullstack com experiência em sistemas reais em produção. Atuo d
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eliasdossantos&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🐍 Contribuições
 
 <div align="center">
